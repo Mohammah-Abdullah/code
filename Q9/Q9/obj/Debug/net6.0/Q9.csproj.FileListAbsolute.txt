@@ -1,0 +1,28 @@
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\bin\Debug\net6.0\Q9.exe
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\bin\Debug\net6.0\Q9.deps.json
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\bin\Debug\net6.0\Q9.runtimeconfig.json
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\bin\Debug\net6.0\Q9.dll
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\bin\Debug\net6.0\Q9.pdb
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\Q9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\Q9.AssemblyInfoInputs.cache
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\Q9.AssemblyInfo.cs
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\Q9.csproj.CoreCompileInputs.cache
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\Q9.dll
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\refint\Q9.dll
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\Q9.pdb
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\Q9.genruntimeconfig.cache
+C:\Users\_MIR_\Desktop\Assignment\Q9\Q9\obj\Debug\net6.0\ref\Q9.dll
+C:\Users\BOT\Downloads\New folder\Q9\Q9\bin\Debug\net6.0\Q9.exe
+C:\Users\BOT\Downloads\New folder\Q9\Q9\bin\Debug\net6.0\Q9.deps.json
+C:\Users\BOT\Downloads\New folder\Q9\Q9\bin\Debug\net6.0\Q9.runtimeconfig.json
+C:\Users\BOT\Downloads\New folder\Q9\Q9\bin\Debug\net6.0\Q9.dll
+C:\Users\BOT\Downloads\New folder\Q9\Q9\bin\Debug\net6.0\Q9.pdb
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\Q9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\Q9.AssemblyInfoInputs.cache
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\Q9.AssemblyInfo.cs
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\Q9.csproj.CoreCompileInputs.cache
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\Q9.dll
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\refint\Q9.dll
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\Q9.pdb
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\Q9.genruntimeconfig.cache
+C:\Users\BOT\Downloads\New folder\Q9\Q9\obj\Debug\net6.0\ref\Q9.dll
